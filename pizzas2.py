@@ -10,8 +10,6 @@ the size and pizza type
 """
 
 import pandas as pd
-import numpy as np
-import re
 import warnings
 
 
